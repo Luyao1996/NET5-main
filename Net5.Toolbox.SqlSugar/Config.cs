@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Net5.Toolbox.SqlSugar
 {
+    /// <summary>
+    /// SqlSugar V5.0.1.3 基础配置类
+    /// </summary>
     public static class Config
     {
         /// <summary>
